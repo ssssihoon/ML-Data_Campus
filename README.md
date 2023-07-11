@@ -12,9 +12,9 @@
 
 |Ch#|Chapter Subject|Note|Date|
 |---|---|---|---|
-|1|기초대수학|[정리](https://github.com/ssssihoon/ML-Data_Campus/blob/main/1.%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%E1%84%83%E1%85%A2%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8/20230706/CH01_01~11.md)|2023.07.06 ~ 2023.07.06|
-|2|미적분학|[정리](https://github.com/ssssihoon/ML-Data_Campus/tree/main/2.%E1%84%86%E1%85%B5%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%A8)|2023.07.07 ~ 2023.07.08|
-|3|선형대수|[정리](https://github.com/ssssihoon/ML-Data_Campus/tree/main/3.%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%83%E1%85%A2%E1%84%89%E1%85%AE/20230709)|2023.07.08 ~ 2023.07.09|
+|1|기초대수학|[정리](https://github.com/ssssihoon/ML-Data_Campus/tree/main/Section_1/1.%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%E1%84%83%E1%85%A2%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8/20230706)|2023.07.06 ~ 2023.07.06|
+|2|미적분학|[정리](https://github.com/ssssihoon/ML-Data_Campus/tree/main/Section_1/2.%E1%84%86%E1%85%B5%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%A8/20230707)|2023.07.07 ~ 2023.07.08|
+|3|선형대수|[정리](https://github.com/ssssihoon/ML-Data_Campus/tree/main/Section_1/3.%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%83%E1%85%A2%E1%84%89%E1%85%AE/20230709)|2023.07.08 ~ 2023.07.09|
 |4|확률|[정리]()|2023.07.|
 
 &nbsp;
@@ -22,8 +22,8 @@
 
 |Ch#|Chapter Subject|Note|Date|
 |---|---|---|---|
-|1|인트로| |2023.07. ~ |
-|2|파이썬기초|[정리]()|2023.07. ~ |
+|1|인트로|NONE|2023.07.10 ~ 2023.07.10|
+|2|파이썬기초|[정리](https://github.com/ssssihoon/ML-Data_Campus/tree/main/Section_2/2.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8A%E1%85%A5%E1%86%AB%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9/20230711)|2023.07.11 ~ 2023.07.11|
 |3|데이터전처리|[정리]()|2023.07. ~ |
 |4|데이터시각화|[정리]()|2023.07. ~ |
 |5|한걸음 더 나아가기|[정리]()|2023.07. ~ |
