@@ -10,8 +10,8 @@
 
  ### - Section 1 : 머신러닝을위한 최소한의 수학/통계
 
-|Ch#|Chapter Subject|Note|Date|
-|---|---|---|---|
+|Ch#|Chapter Subject|Note|Date1|Date2|
+|---|---|---|---|---|
 |1|기초대수학|[정리](https://github.com/ssssihoon/ML-Data_Campus/tree/main/Section_1/1.%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%E1%84%83%E1%85%A2%E1%84%89%E1%85%AE%E1%84%92%E1%85%A1%E1%86%A8/20230706)|2023.07.06 ~ 2023.07.06|
 |2|미적분학|[정리](https://github.com/ssssihoon/ML-Data_Campus/tree/main/Section_1/2.%E1%84%86%E1%85%B5%E1%84%87%E1%85%AE%E1%86%AB%E1%84%92%E1%85%A1%E1%86%A8/20230707)|2023.07.07 ~ 2023.07.08|
 |3|선형대수|[정리](https://github.com/ssssihoon/ML-Data_Campus/tree/main/Section_1/3.%E1%84%89%E1%85%A5%E1%86%AB%E1%84%92%E1%85%A7%E1%86%BC%E1%84%83%E1%85%A2%E1%84%89%E1%85%AE/20230709)|2023.07.08 ~ 2023.07.09|
@@ -20,8 +20,8 @@
 &nbsp;
 ### - Section 2 : 파이썬 프로그래밍 기초와 데이터분석
 
-|Ch#|Chapter Subject|Note|Date|
-|---|---|---|---|
+|Ch#|Chapter Subject|Note|Date1|Date2|
+|---|---|---|---|---|
 |1|인트로|NONE|2023.07.10 ~ 2023.07.10|
 |2|파이썬기초|[정리](https://github.com/ssssihoon/ML-Data_Campus/tree/main/Section_2/2.%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%8A%E1%85%A5%E1%86%AB%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9/20230711)|2023.07.11 ~ 2023.07.11|
 |3|데이터전처리|[정리](https://github.com/ssssihoon/ML-Data_Campus/blob/main/Section_2/3.%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%E1%84%8C%E1%85%A5%E1%86%AB%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5/CH03_01~16.md)|2023.07.12 ~ 2023.07.16|
@@ -31,8 +31,8 @@
 &nbsp;
 ### - Section 3 : R 프로그래밍 기초와 데이터분석
 
-|Ch#|Chapter Subject|Note|Date|
-|---|---|---|---|
+|Ch#|Chapter Subject|Note|Date1|Date2|
+|---|---|---|---|---|
 |1|데이터 분석 시작하기|NONE|2023.07.20 ~ 2023.07.20|
 |2|Rstudio 이해하기|[정리](https://github.com/ssssihoon/ML-Data_Campus/blob/main/Section_3/2.Rstudio%20%E1%84%8B%E1%85%B5%E1%84%92%E1%85%A2%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5/CH02_01~03.md)|2023.07.20 ~ 2023.07.20|
 |3|데이터 분석 기본기|[정리](https://github.com/ssssihoon/ML-Data_Campus/tree/main/Section_3/3.%E1%84%83%E1%85%A6%E1%84%8B%E1%85%B5%E1%84%90%E1%85%A5%20%E1%84%87%E1%85%AE%E1%86%AB%E1%84%89%E1%85%A5%E1%86%A8%20%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB%E1%84%80%E1%85%B5)|2023.07.21 ~ 2023.07.21|
@@ -45,8 +45,8 @@
 &nbsp;
 ### - Section 4 : 머신러닝 알고리즘의 모든 것
 
-|Ch#|Chapter Subject|Note|Date|
-|---|---|---|---|
+|Ch#|Chapter Subject|Note|Date1|Date2|
+|---|---|---|---|---|
 |1|머신러닝 소개|[정리]()|2023.07. ~ |
 |2|Regression|[정리]()|2023.07. ~ |
 |3|Logistic Regression|[정리]()|2023.07. ~ |
@@ -64,8 +64,8 @@
 &nbsp;
 ### - Section 5 : 파이썬 머신러닝 프로젝트
 
-|Ch#|Chapter Subject|Note|Date|
-|---|---|---|---|
+|Ch#|Chapter Subject|Note|Date1|Date2|
+|---|---|---|---|---|
 |1|강의 소개|[정리]()|2023.07. ~ |
 |2|데이터 분석과 머신러닝|[정리]()|2023.07. ~ |
 |3|실습1. 보험료 예측하기|[정리]()|2023.07. ~ |
@@ -88,8 +88,8 @@
 &nbsp;
 ### - Section 6 : R 머신러닝 프로젝트
 
-|Ch#|Chapter Subject|Note|Date|
-|---|---|---|---|
+|Ch#|Chapter Subject|Note|Date1|Date2|
+|---|---|---|---|---|
 |1|실습1. 통신사 이탈 고객 예측 모형 실습|[정리]()|2023.07. ~ |
 |2|실습2. 신용카드 연체 고객 예측|[정리]()|2023.07. ~ |
 |3|실습3. 고객의 상품 구매 예측하기|[정리]()|2023.07. ~ |
@@ -104,8 +104,8 @@
 &nbsp;
 ### - Section 7 : 머신러닝 서비스화를 위함 MLOps
 
-|Ch#|Chapter Subject|Note|Date|
-|---|---|---|---|
+|Ch#|Chapter Subject|Note|Date1|Date2|
+|---|---|---|---|---|
 |1|ML을 Service화 하기 위한 기술, MLOps|[정리]()|2023.07. ~ |
 |2|Docker, k8s, Cloud|[정리]()|2023.07. ~ |
 |3|오픈소스를 통해 알아보는 MLOps의 구성요소|[정리]()|2023.07. ~ |
@@ -116,8 +116,8 @@
 &nbsp;
 ### - Section 8 : 딥러닝 에센스
 
-|Ch#|Chapter Subject|Note|Date|
-|---|---|---|---|
+|Ch#|Chapter Subject|Note|Date1|Date2|
+|---|---|---|---|---|
 |1|딥러닝|[정리]()|2023.07. ~ |
 |2|딥러닝 핵심 1: 뉴럴 네트워크|[정리]()|2023.07. ~ |
 |3|딥러닝 핵심 2 : CNN|[정리]()|2023.07. ~ |
