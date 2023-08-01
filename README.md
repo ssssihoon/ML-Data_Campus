@@ -48,7 +48,7 @@
 |Ch#|Chapter Subject|Note|Date1|Date2|
 |---|---|---|---|---|
 |1|머신러닝 소개|NONE|2023.07.29 ~ 2023.07.29|
-|2|Regression|[정리](https://github.com/ssssihoon/ML-Data_Campus/blob/main/Section_4/2.Regrssion/CH02_01~07.md)|2023.07.31 ~ |
+|2|Regression|[정리](https://github.com/ssssihoon/ML-Data_Campus/blob/main/Section_4/2.Regrssion/CH02_01~07.md)|2023.07.31 ~ 2023.08.01|
 |3|Logistic Regression|[정리]()|2023.08. ~ 2023.08|
 |4|Decision Tree|[정리]()|2023.08. ~ 2023.08|
 |5|Naive Bayes|[정리]()|2023.08. ~ 2023.08|
