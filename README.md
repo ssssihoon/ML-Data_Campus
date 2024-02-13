@@ -1,10 +1,6 @@
 
-**개념정립이 되지않아 아직 데이터를 다루는데 미숙하여 데이터에 관해 숙지 후 재개 예정입니다.**
-
-
-
 # 왜 이 강의를 선택했는지
-당장이라도 인공지능에 관한 분야를 배우고 싶지만 아직 1학년이라 기초적인 문법만 수강 중이기에 선택하게 됐다.
+당장이라도 인공지능에 관한 분야를 배우고 싶지만 아직 1학년이라 기초적인 문법만 수강중이기에 선택하게 됐다.
 
 
 &nbsp;
@@ -55,7 +51,7 @@
 |---|---|---|---|---|
 |1|머신러닝 소개|NONE|2023.07.29 ~ 2023.07.29|
 |2|Regression|[정리](https://github.com/ssssihoon/ML-Data_Campus/blob/main/Section_4/2.Regrssion/CH02_01~07.md)|2023.07.31 ~ 2023.08.01|
-|3|Logistic Regression|[정리]()|2023.08. ~ 2023.08|
+|3|Logistic Regression|[정리](https://github.com/ssssihoon/ML-Data_Campus/blob/main/Section_4/3.Logistic%20Regression/CH03.md)|2024.02.13 ~ 2024.02.13|
 |4|Decision Tree|[정리]()|2023.08. ~ 2023.08|
 |5|Naive Bayes|[정리]()|2023.08. ~ 2023.08|
 |6|KNN|[정리]()|2023.08. ~ 2023.08|
